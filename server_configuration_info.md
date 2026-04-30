@@ -1,29 +1,31 @@
 # Black Ops 3 Server Configuration Reference
 
-### Gamemodes
+# Gamemode Configuration Files
 
-| Code | Name |
+
+| Filename | Game Mode |
 | :--- | :--- |
-| `dm` | Free-for-all |
-| `tdm` | Team Deathmatch |
-| `ball` | Uplink |
-| `sd` | Search and Destroy |
-| `sr` | Search and Rescue |
-| `dom` | Domination |
-| `dem` | Demolition |
-| `conf` | Kill Confirmed |
-| `ctf` | Capture the Flag |
-| `shrp` | Sharpshooter |
-| `gun` | Gungame |
-| `sas` | Sticks and Stones |
-| `koth` | Hardpoint |
-| `escort` | Safeguard |
-| `clean` | Fracture |
-| `prop` | Prop hunt |
-| `infect` | Infected |
-| `sniperonly` | Snipers only |
+| `gamesettings_ball.cfg` | Uplink |
+| `gamesettings_clean.cfg` | Fracture |
+| `gamesettings_conf.cfg` | Kill Confirmed |
+| `gamesettings_ctf.cfg` | Capture the Flag |
+| `gamesettings_default.cfg` | Default Settings |
+| `gamesettings_dem.cfg` | Demolition |
+| `gamesettings_dm.cfg` | Free-for-all |
+| `gamesettings_dom.cfg` | Domination |
+| `gamesettings_escort.cfg` | Safeguard |
+| `gamesettings_fr.cfg` | Free Run / Frontline |
+| `gamesettings_gun.cfg` | Gungame |
+| `gamesettings_infect.cfg` | Infected |
+| `gamesettings_koth.cfg` | Hardpoint |
+| `gamesettings_prop.cfg` | Prop Hunt |
+| `gamesettings_sas.cfg` | Sticks and Stones |
+| `gamesettings_sd.cfg` | Search and Destroy |
+| `gamesettings_sniperonly.cfg` | Snipers Only |
+| `gamesettings_tdm.cfg` | Team Deathmatch |
 
 ---
+
 
 ### Map Rotation List
 > *Note: Maps marked with an asterisk (\*) support Prop Hunt.*
